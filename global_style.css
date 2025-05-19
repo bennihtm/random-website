@@ -21,7 +21,7 @@
 
 html, body {
     font-family: 'Geist', sans-serif;
-    background-image: url(/assets/images/backdrop.png);
+    background-image: url(./assets/images/backdrop.png);
     background-size: cover;
 }
 code {
