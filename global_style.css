@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Geist";
+  src: url("./assets/fonts/Geist_var.ttf") format("woff2 supports variations"),
+       url("./assets/fonts/Geist_var.ttf") format("woff2-variations");
+  font-weight: 100 1000;
+}
+@font-face {
+  font-family: "Geist Mono";
+  src: url("./assets/fonts/GeistMono_var.ttf") format("woff2 supports variations"),
+       url("./assets/fonts/GeistMono_var.ttf") format("woff2-variations");
+  font-weight: 100 1000;
+}
+
+html, body {
+    font-family: 'Geist', sans-serif;
+}
+code {
+    font-family: 'Geist Mono', monospace;
+}
