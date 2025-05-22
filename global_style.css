@@ -13,9 +13,9 @@
 
 @font-face {
   font-family: "DIN 1451 Mittelschrift";
-  src: url("./assets/fonts/Din1451_MS.ttf") format("woff2 supports variations"),
-       url("./assets/fonts/Din1451_MS.ttf") format("woff2-variations");
-  font-weight: 100 1000;
+  src: url("./assets/fonts/Din1451_MS.ttf"),
+       url("./assets/fonts/Din1451_MS.ttf");
+  font-weight: 400;
 }
 
 
